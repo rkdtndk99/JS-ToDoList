@@ -1,5 +1,3 @@
-//querySelector : html에서 뭔가를 가져올 때 사용
-
 const toDoForm = document.querySelector(".js-toDoForm"),
     toDoInput = toDoForm.querySelector("input"),
     toDoList = document.querySelector(".js-toDoList");
