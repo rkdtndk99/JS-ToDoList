@@ -1,11 +1,3 @@
-//console.log 콘솔창에 프린트하기 
-//default로 const사용하기. 필요할 때만 let으로 바꿔라 
-//함수 안의 매개변수는 type선언 해주지 않아도 된다 
-//`${변수이름}`으로 스트링 출력 가능 
-//DOM Document Object Model
-//JS에서 equals는 === 3개나 된다... 
-//setInterval(funciton, secs(반복되는 시간))
-
 const clockContainer = document.querySelector(".js-clock"),
     clockTitle = clockContainer.querySelector("h1"),
     todayDate = clockContainer.querySelector("h2");
